@@ -63,5 +63,5 @@ You can follow the development in the notebook of this repository:[notebook](/si
 
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/open?id=1YEKs96VWj8FArCZnf8O0xklYsutgF6pk" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1YEKs96VWj8FArCZnf8O0xklYsutgF6pk/view" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
