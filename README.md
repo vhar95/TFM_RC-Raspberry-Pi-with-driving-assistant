@@ -8,9 +8,16 @@ RC Car Features:
 - Identify circuit lines, to act later on the direction of the car and thus be able to follow a circuit autonomously
 - Identification of traffic signs, thus performing the task of driving assistant
 
+![Esquema](/img/8.png)
+
 ## Node-red flow - Manual User Control
 
 ## Keras Model Servo Direction
+
+At this point a model will be built in keras so that it is able to detect the direction that the RC car should take according to the classification of the images.
+You can follow the development in the notebook of this repository:[notebook](/servo_position_classification/ModeloKerasDireccion.ipynb)
+
+
 
 ## Signal Detection and Classification
 ### Haar Cascades
