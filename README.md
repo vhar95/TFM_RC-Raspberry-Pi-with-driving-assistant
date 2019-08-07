@@ -61,7 +61,4 @@ You can follow the development in the notebook of this repository:[notebook](/si
 
 ![Esquema](/img/9.png)
 
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1YEKs96VWj8FArCZnf8O0xklYsutgF6pk/view" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![RC CAR](/img/9.png)](https://drive.google.com/file/d/1YEKs96VWj8FArCZnf8O0xklYsutgF6pk/view "RC CAR")
