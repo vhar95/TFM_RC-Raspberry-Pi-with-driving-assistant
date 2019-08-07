@@ -12,15 +12,51 @@ RC Car Features:
 
 ## Node-red flow - Manual User Control
 
+![Esquema](/img/1.jpg)
+
 ## Keras Model Servo Direction
 
 At this point a model will be built in keras so that it is able to detect the direction that the RC car should take according to the classification of the images.
 You can follow the development in the notebook of this repository:[notebook](/servo_position_classification/ModeloKerasDireccion.ipynb)
 
+### Keras
 
+![Esquema](/img/4.png)
+
+### Hough transform
+
+![Esquema](/img/2.png)
+
+### Histogram analysis
+
+![Esquema](/img/3.png)
 
 ## Signal Detection and Classification
+
+
+At this point the detection and classification of traffic signals will be developed, using 3 methods.
+
+
 ### Haar Cascades
+
+You can follow the development in the notebook of this repository:[notebook](/signal_detection_and_classification/haar_cascades/HaarCascadeStop.ipynb)
+
+![Esquema](/img/5.png)
+
 ### Tensorflow Object Detection API
+
+You can follow the development in the notebook of this repository:[notebook](/signal_detection_and_classification/tensorflow_api/TensorflowObjetoSenal.ipynb)
+
+![Esquema](/img/6.png)
+
 ### Keras Signal Classification
+
+You can follow the development in the notebook of this repository:[notebook](/signal_detection_and_classification/keras_signal_classification/ReconocerSenales.ipynb)
+
+![Esquema](/img/7.png)
+
+## Final Result
+
+![Esquema](/img/9.png)
+
 
