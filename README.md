@@ -59,6 +59,6 @@ You can follow the development in the notebook of this repository:[notebook](/si
 
 ## Final Result
 
-![Esquema](/img/9.png)
+Video, just click img.
 
 [![RC CAR](/img/9.png)](https://drive.google.com/file/d/1YEKs96VWj8FArCZnf8O0xklYsutgF6pk/view "RC CAR")
