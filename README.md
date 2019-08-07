@@ -7,3 +7,13 @@ RC Car Features:
 - Real-time video streaming
 - Identify circuit lines, to act later on the direction of the car and thus be able to follow a circuit autonomously
 - Identification of traffic signs, thus performing the task of driving assistant
+
+## Node-red flow - Manual User Control
+
+## Keras Model Servo Direction
+
+## Signal Detection and Classification
+### Haar Cascades
+### Tensorflow Object Detection API
+### Keras Signal Classification
+
