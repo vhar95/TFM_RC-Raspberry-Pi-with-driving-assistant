@@ -10,6 +10,8 @@ RC Car Features:
 
 ![Esquema](/img/8.png)
 
+![Esquema](/img/10.png)
+
 ## Node-red flow - Manual User Control
 
 ![Esquema](/img/1.jpg)
@@ -59,4 +61,8 @@ You can follow the development in the notebook of this repository:[notebook](/si
 
 ![Esquema](/img/9.png)
 
-
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="/img/CondRec.mp4" type="video/mp4">
+  </video>
+</figure>
